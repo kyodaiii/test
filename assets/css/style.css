@@ -546,3 +546,6 @@ section {
 .typewrite{
   color: #fff;
 }
+.typewrite:hover{
+color: #fff;
+}
