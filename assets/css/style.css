@@ -115,7 +115,11 @@ h6 {
 }
 
 #header .countdown {
-  margin-bottom: 50px;
+  margin-bottom: 15px;
+}
+
+.countdown{
+  margin-top: 7%;
 }
 
 #header .countdown div {
@@ -248,7 +252,7 @@ h6 {
 }
 
 #header .social-links {
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 #header .social-links a {
@@ -536,4 +540,9 @@ section {
 
 .subscribe{
   display: none;
+}
+
+
+.typewrite{
+  color: #fff;
 }
